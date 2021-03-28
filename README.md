@@ -10,6 +10,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 - [2021 Venues](#2021)
 - [2020 Venues](#2020)
 - [Before 2020](#before-2020)
+- [Arxiv](#arxiv)
 
 
 ### Type of Causality in CV
@@ -81,11 +82,14 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 
 
+<br>
 
 ## Related Repo
 
 [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+
 [Causal_Reading_Group](https://github.com/fulifeng/Causal_Reading_Group)
+
 [awesome-causality](https://github.com/napsternxg/awesome-causality)
 
 
