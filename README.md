@@ -32,6 +32,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541) | CVPR | `O`     | [PyTorch(Author)](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/)|
 |  [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/abs/2103.06541) | CVPR | `CR`     | - |
 |  [Representation Learning via Invariant Causal Mechanism](https://arxiv.org/abs/2010.07922) | ICLR | `CR`     | - |
+|  [Counterfactual Generative Networks](https://arxiv.org/abs/2101.06046) | ICLR | `CF`     | [PyTorch(Author)](https://github.com/autonomousvision/counterfactual_generative_networks) |
 
 
 
@@ -54,6 +55,8 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Two causal principles for improving visual dialog](https://arxiv.org/abs/1911.10496) | CVPR | `DC`     | [PyTorch(Author)](https://github.com/simpleshinobu/visdial-principles) |
 | [Counterfactual samples synthesizing for robust visual question answering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.pdf) | CVPR | `CF`     | [PyTorch(Author)](https://github.com/yanxinzju/CSS-VQA) |
 | [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538) | CVPR | `CF`     | [PyTorch(Author)](https://github.com/AgarwalVedika/CausalVQA) |
+| [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/abs/1912.07538) | ICLR | `CF`     | - |
+| [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning](https://arxiv.org/abs/1912.05743) | ICLR | `CF`     | - |
 
 
 
