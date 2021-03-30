@@ -30,8 +30,8 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493) | CVPR | `DC`     | [PyTorch(Author)](https://github.com/yangxuntu/lxmertcatt)   |
 | [The Blessings of Unlabeled Background in Untrimmed Videos](https://arxiv.org/abs/2103.13183) | CVPR | `CF`     | -   |
 | [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541) | CVPR | `O`     | [PyTorch(Author)](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/)|
-|  [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/abs/2103.06541) | CVPR | `CR`     | - |
-|  [Representation Learning via Invariant Causal Mechanism](https://arxiv.org/abs/2010.07922) | ICLR | `CR`     | - |
+|  [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/abs/2004.08697) | CVPR | `CR`     | - |
+|  [Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922) | ICLR | `CR`     | - |
 |  [Counterfactual Generative Networks](https://arxiv.org/abs/2101.06046) | ICLR | `CF`     | [PyTorch(Author)](https://github.com/autonomousvision/counterfactual_generative_networks) |
 
 
