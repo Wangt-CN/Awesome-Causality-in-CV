@@ -24,6 +24,11 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [Transporting Causal Mechanisms for Unsupervised Domain Adaptation](https://arxiv.org/abs/2107.11055) | ICCV | `O`     | [PyTorch(Author)](https://github.com/yue-zhongqi/tcm)   |
+| [Causal Attention for Unbiased Visual Recognition](https://arxiv.org/abs/2108.08782) | ICCV | `IT`     | [PyTorch(Author)](https://github.com/Wangt-CN/CaaM)   |
+| [Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf) | ICCV | `IT/CR`     | -  |
+| [Human Trajectory Prediction via Counterfactual Analysis](https://arxiv.org/abs/2107.14202) | ICCV | `CF`     | [PyTorch(Author)](https://github.com/CHENGY12/CausalHTP) |
+| [Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-Identification](https://arxiv.org/abs/2108.08728) | ICCV | `CF`     | [PyTorch(Author)](https://github.com/raoyongming/cal) |
 | [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) | CVPR | `CF`     | [PyTorch(Author)](https://github.com/yuleiniu/cfvqa)   |
 | [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887) | CVPR | `CF`     | [PyTorch(Author)](https://github.com/yue-zhongqi/gcm-cf)   |
 | [Distilling Causal Effect of Data in Class-Incremental Learning](https://arxiv.org/pdf/2103.01737) | CVPR | `CF`     | [PyTorch(Author)](https://github.com/JoyHuYY1412/DDE_CIL)   |
